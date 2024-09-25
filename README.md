@@ -3,7 +3,7 @@ Freelancer Jekyll theme
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-To visit site [Click Here ]([http://startbootstrap.com/template-overviews/freelancer/](https://p2p-trader.github.io/paypal/)
+To visit site [Click Here ](https://p2p-trader.github.io/paypal/)
 
 ## How to use
  - Place a image in `/img/portfolio/`
